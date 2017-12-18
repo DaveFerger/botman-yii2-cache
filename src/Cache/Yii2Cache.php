@@ -1,6 +1,6 @@
 <?php
 
-namespace BotMan\BotMan\Cache;
+namespace daveferger\BotMan\Cache;
 
 use BotMan\BotMan\Interfaces\CacheInterface;
 use Yii;
