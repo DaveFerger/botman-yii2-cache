@@ -13,10 +13,13 @@
     {
       "name": "DaveFerger",
       "email": "david@forberger.hu"
+    },{
+      "name": "machour",
+      "email": "machour@gmail.com"
     }
   ],
   "require": {
-    "php": ">=7.0",
+    "php": ">=7.1",
     "botman/botman": "~2.1",
     "yiisoft/yii2": "2.0.*"
   },
