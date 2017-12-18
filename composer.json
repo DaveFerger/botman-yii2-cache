@@ -1,0 +1,28 @@
+{
+  "name": "daveferer/botman-yii2-cache",
+  "license": "MIT",
+  "description": "Yii2 cache for BotMan",
+  "keywords": [
+    "Bot",
+    "BotMan",
+    "Yii2",
+    "Cache"
+  ],
+  "homepage": "https://github.com/DaveFerger/botman-yii2-cache",
+  "authors": [
+    {
+      "name": "DaveFerger",
+      "email": "david@forberger.hu"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "botman/botman": "~2.1",
+    "yiisoft/yii2": "~2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "daveferger\\botman\\cache\\": "src/"
+    }
+  },
+}
