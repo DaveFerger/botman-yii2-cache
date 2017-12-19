@@ -3,7 +3,7 @@
 
 Note
 ------------
-This is extension work only with in Yii2 project, because Yii doesn't have a separate module (i.e. repo) for its caching mechanism. It's bundled in the core yiisoft/yii2 package. 
+This extension works only with in a Yii2 project, because Yii doesn't have a separate module (i.e. repo) for its caching mechanism. It's bundled in the core yiisoft/yii2 package. 
 
  
  Installation
