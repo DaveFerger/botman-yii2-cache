@@ -16,6 +16,9 @@
     },{
       "name": "machour",
       "email": "machour@gmail.com"
+    },{
+      "name": "Ivo Pereira",
+      "email": "ivoecpereira@gmail.com"
     }
   ],
   "require": {
@@ -25,7 +28,7 @@
   },
   "autoload": {
     "psr-4": {
-      "daveferger\\BotMan\\Cache\\": "src/"
+      "daveferger\\BotMan\\Cache\\": "src/Cache/"
     }
   }
 }
