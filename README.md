@@ -1,6 +1,12 @@
 # botman-yii2-cache
 [Yii2](http://www.yiiframework.com/) Cache for [Botman](https://botman.io/)
 
+
+## !!! OUR PROJECT PAUSED, NOT MAINTANENCED REPOSITORY !!!
+
+Please visit: [https://github.com/idk-tn/yii2-botman]
+
+
 Note
 ------------
 This extension works only with in a Yii2 project, because Yii doesn't have a separate module (i.e. repo) for its caching mechanism. It's bundled in the core yiisoft/yii2 package. 
