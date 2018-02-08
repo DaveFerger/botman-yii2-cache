@@ -4,7 +4,7 @@
 
 ## !!! OUR PROJECT PAUSED, NOT MAINTANENCED REPOSITORY !!!
 
-Please visit: [https://github.com/idk-tn/yii2-botman]
+Please visit: https://github.com/idk-tn/yii2-botman
 
 
 Note
